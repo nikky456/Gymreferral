@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "gymreferral-client-side-solution",
+    "id": "83841462-2ac4-45f7-9ebd-a9bc20e8a12d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Gymreferral description"
+      },
+      "longDescription": {
+        "default": "Gymreferral description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "gymreferral Feature",
+        "description": "The feature that activates elements of the gymreferral solution.",
+        "id": "cef357af-be9a-4f24-aac8-913eb33edba8",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/gymreferral.sppkg"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.18.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "gymreferral",
+    "libraryId": "83841462-2ac4-45f7-9ebd-a9bc20e8a12d",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Gymreferral",
+    "solutionShortDescription": "Gymreferral description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
